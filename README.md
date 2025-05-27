@@ -2,7 +2,7 @@
 
 Flipper, the Ink! Hello World.
 
-Commented and explained version, based on the smart contracts tutorial from the [Pop Docs](https://learn.onpop.io/contracts).
+Commented and explained version, based on the [smart contracts tutorial](https://learn.onpop.io/contracts) from the [Pop Docs](https://learn.onpop.io/).
 
 [ink!](https://use.ink/) is the programming language designed for developing smart contracts in blockchains built with the Polkadot Substrate framework.
 It is built with Rust, a language with a strong memory security guarantee, an advanced type system, and integral development tools.
